@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Fullstack web developer Intern",
+    "organisation": "Edureka Learning Center,Belgavi",
+    "startDate": "july, 2023",
+    "endDate": "Jan 2024",
+    "experiences": ["Built and optimized RESTful APIs using NodeJS, improving data retrieval efficiency", "Collaborated on full-stack development projects, integrating frontend and backend components seamlessly"],
+    "imageSrc": "history/edu.png"
+  },
+  {
+    "role": "Data Analytics using Python",
+    "organisation": "M/S Zeel Code Labs,Belgavi",
+    "startDate": "June, 2022",
+    "endDate": "Aug, 2022",
+    "experiences": ["Data Cleaning: Identify and address inconsistencies and outliers in dataset", "Data Visualization: Create visualizations using tools like Matplotlib, Seaborn, or Plotly etc"],
+    "imageSrc": "history/zeel.png"
+  }
+  
+]

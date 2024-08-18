@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Employee Management System using MERN Stack",
+    "imageSrc": "projects/project.png",
+    "description": "A web-based Employee Management System built with the MERN stack for efficiently managing employee information and activities",
+    "skills": ["React", "Express", "Node","Mysql"],
+   
+    "source": "https://github.com/vidyakesarkar/Employee-Management-System-Using-MERN-Stack"
+  },
+  {
+    "title": "Food ordering App",
+    "imageSrc": "projects/project.png",
+    "description": "A web application for a tomato-themed project built using the React JS framework, featuring dynamic UI components and interactive functionality.",
+    "skills": ["React", "Express", "Node"],
+
+    "source": "https://github.com/vidyakesarkar/Food-ordering-App-Using-ReactJs"
+  },
+  {
+    "title": "Amazone Clone",
+    "imageSrc": "projects/project.png",
+    "description": "A simple web-based Amazon clone created with HTML, CSS, and Bootstrap, showcasing a basic layout with product listings and a responsive design",
+    "skills": ["HTML","CSS","Bootstrap"],
+   
+    "source": "https://github.com/vidyakesarkar/Amazone-clone"
+  },
+  {
+    "title": "Ecomerce Website",
+    "imageSrc": "projects/project.png",
+    "description": "A simple web-based Ecomerce Website built with HTML, CSS, JavaScript, and Bootstrap, featuring a basic layout for product display and a responsive design.",
+    "skills": ["HTML","CSS","Bootstrap","Javascript"],
+  
+    "source": "https://github.com/vidyakesarkar/Ecomerce-Website"
+  }
+]
